@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Bala.prefab
+    - Assets/Bala.prefab.meta
+    - Assets/Scenes/New Scene.unity
+    - Assets/Scenes/New Scene.unity.meta
+    - Assets/Scripts/Bala.cs
+    - Assets/Scripts/Bala.cs.meta
+    - Assets/Scripts/Button.cs
+    - Assets/Scripts/Button.cs.meta
+    - Assets/Scripts/Nave.cs
+    - Assets/Scripts/Nave.cs.meta
+    - Assets/atividade1.meta
+    - Assets/atividade1/Knight Files.meta
+    - Assets/atividade1/Knight Files/Body Parts.meta
+    - Assets/atividade1/Knight Files/Body Parts/Body lower.png
+    - Assets/atividade1/Knight Files/Body Parts/Body lower.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/Head.png
+    - Assets/atividade1/Knight Files/Body Parts/Head.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/Left Arm.png
+    - Assets/atividade1/Knight Files/Body Parts/Left Arm.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/Legs 2.png
+    - Assets/atividade1/Knight Files/Body Parts/Legs 2.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/Legs.png
+    - Assets/atividade1/Knight Files/Body Parts/Legs.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/Right Arm.png
+    - Assets/atividade1/Knight Files/Body Parts/Right Arm.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/body upper.png
+    - Assets/atividade1/Knight Files/Body Parts/body upper.png.meta
+    - Assets/atividade1/Knight Files/Body Parts/sword.png
+    - Assets/atividade1/Knight Files/Body Parts/sword.png.meta
+    - Assets/atividade1/Knight Files/Demo.unity
+    - Assets/atividade1/Knight Files/Demo.unity.meta
+    - Assets/atividade1/Knight Files/DemoSettings.lighting
+    - Assets/atividade1/Knight Files/DemoSettings.lighting.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_01.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_01.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_02.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_02.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_03.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_03.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_04.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_04.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_05.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_05.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_06.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/dashwind_06.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_01.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_01.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_02.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_02.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_03.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_03.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_04.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_04.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_05.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_05.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_06.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/explosion_06.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/fireball_01.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/fireball_01.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/fireball_02.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/fireball_02.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/fireball_03.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/fireball_03.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/particlel.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/particlel.png.meta
+    - Assets/atividade1/Knight Files/Effect & FireBalls/potion.png
+    - Assets/atividade1/Knight Files/Effect & FireBalls/potion.png.meta
+    - Assets/atividade1/Knight Files/Knight AI.ai
+    - Assets/atividade1/Knight Files/Knight AI.ai.meta
+    - Assets/atividade1/Knight Files/Knight EPS.eps
+    - Assets/atividade1/Knight Files/Knight EPS.eps.meta
+    - Assets/atividade1/Knight Files/Knight PNG.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_05.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_05.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_06.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_attack_06.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_block_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_05.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_cast_05.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_crouch_0.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_crouch_0.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dash_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dash_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dash_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dash_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dash_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dash_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_05.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_05.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_06.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_06.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_07.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_07.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_08.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_die_08.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dizzy_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dizzy_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dizzy_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dizzy_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dizzy_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_dizzy_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_hurt_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_hurt_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_hurt_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_hurt_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_05.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_05.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_06.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_idle_06.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_05.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_05.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_06.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jumpAttack_06.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jump_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jump_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jump_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_jump_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_strike_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_strike_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_strike_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_strike_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_strike_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_strike_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_02.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_03.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_03.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_04.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_04.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_05.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_05.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_06.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_walk_06.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_win_01.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_win_01.png.meta
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_win_02.png
+    - Assets/atividade1/Knight Files/Knight PNG/Knight_win_02.png.meta
+    - Assets/atividade1/Knight Files/Read Me.txt
+    - Assets/atividade1/Knight Files/Read Me.txt.meta
+    - Assets/atividade1/MoveRight.cs
+    - Assets/atividade1/MoveRight.cs.meta
+    - Assets/atividade1/New Animation.anim
+    - Assets/atividade1/New Animation.anim.meta
+    - Assets/atividade1/Player.cs
+    - Assets/atividade1/Player.cs.meta
+    - Assets/atividade1/Rotate.cs
+    - Assets/atividade1/Rotate.cs.meta
+    - Assets/atividade1/atividade1.unity
+    - Assets/atividade1/atividade1.unity.meta
+    - Assets/nave.png
+    - Assets/nave.png.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: movimentacao e tiro
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
